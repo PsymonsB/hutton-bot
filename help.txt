@@ -1,0 +1,19 @@
+__**Hutton Bot Help Documentation**__
+
+`?hutton_inf` Shows current influence in Hutton Orbital Truckers Co-Operative controled systems. also shows state, pending state, and recovering state
+
+`?hotcol_inf` Shows current influence in HOTCOL controled systems. also shows state, pending state, and recovering state
+
+`?huttonrun` Shows Fastest 'Hutton Run' recorded by the Hutton Helper
+
+`?distance` Finds the distance in ly between two systems. used as follows eg. `?distance sol & wolf 359`
+
+`?factioninf` Shows a factions Information for all systems they are present in. used as follows eg.`?factioninf Interplanetary Explorations'
+
+`?systeminf` Shows a list of all factions present in a certain system's influence. used as follows eg.`?systeminf HIP 2453`
+
+Programmed by @psymons#8386 any problems and/or ideas give me a DM 
+
+Special thanks to go out to Entarius Fusion for the HH and all the help especially keeping me motivated, I need it sometimes...FOR THE MUG
+
+Get The Hutton Helper download it now from http://hot.forthemug.com
